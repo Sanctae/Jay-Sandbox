@@ -1,0 +1,3 @@
+This is another new file that has been added in a branch
+
+Feature modified as per pull request discussions
