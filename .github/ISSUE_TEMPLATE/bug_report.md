@@ -10,6 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 [a file link](../blob/master/docfolder/file.md)
+[wiki](../../wiki)
 
 **To Reproduce**
 Steps to reproduce the behavior:
