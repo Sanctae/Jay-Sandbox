@@ -9,7 +9,7 @@ assignees: ''
 
 **Describe the bug**
 A clear and concise description of what the bug is.
-[a file link](docfolder/file.md)
+[a file link](../docfolder/file.md)
 
 **To Reproduce**
 Steps to reproduce the behavior:
